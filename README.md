@@ -1,2 +1,2 @@
 # About me 😎👌🔥
-A 17 yr old dev developing random stuff and improving his cs skills.
+A 17 yr old dev making random stuff
